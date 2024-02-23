@@ -1,6 +1,6 @@
 # React + Vite
 
-## Demo: https://cart-management-zeta.vercel.app/
+## Demo: https://e-commerce-b4cmelhsu-hayatul-islam.vercel.app/
 
 Task Info
 
